@@ -1,4 +1,12 @@
-### Hi there 👋
+### Welcome to my github page! 👋
+
+- 🌱 I’m currently learning Javascript/Typescript, React and Vue.
+
+- 🧰 My skillset also contains HTML and SCSS.
+
+- 📫 You can contact me: [LinkedIn](https://www.linkedin.com/in/gatis-celmins/)
+
+- ⚡ Fun fact: I am 2.04 m tall.
 
 <!--
 **berserks03/berserks03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
