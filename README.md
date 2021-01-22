@@ -4,7 +4,7 @@
 
 - 🧰 My skillset also contains HTML and SCSS.
 
-- 📫 You can contact me: [LinkedIn](https://www.linkedin.com/in/gatis-celmins/) [Gmail](mailto:gatiscelmins03@gmail.com)
+- 📫 You can contact me: [LinkedIn](https://www.linkedin.com/in/gatis-celmins/), [Gmail](mailto:gatiscelmins03@gmail.com)
 
 - ⚡ Fun fact: I am 2.04 m tall.
 
