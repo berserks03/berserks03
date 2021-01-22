@@ -1,10 +1,10 @@
 ### Welcome to my github page! 👋
 
-- 🌱 I’m currently learning Javascript/Typescript, React and Vue.
+- 🌱 I’m currently learning Javascript/Typescript, React, Vue and Angular.
 
 - 🧰 My skillset also contains HTML and SCSS.
 
-- 📫 You can contact me: [LinkedIn](https://www.linkedin.com/in/gatis-celmins/)
+- 📫 You can contact me: [LinkedIn](https://www.linkedin.com/in/gatis-celmins/) [Gmail](gatiscelmins03@gmail.com)
 
 - ⚡ Fun fact: I am 2.04 m tall.
 
